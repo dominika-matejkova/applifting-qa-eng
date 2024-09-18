@@ -49,7 +49,7 @@ Níže jsem uvedla okruhy, které by na webu měly být testovány a otázky, na
 
 Doba viditelného načtení obsahu stránky (speed index) dosahuje hodnoty 2,2s (na mobilu dokonce 8,1s) což může vést k frustraci uživatele a opuštění stránky. Celkové načtení webu trvalo 26s
 
-Další úspory dat lze dosáhnout odstraněním nevyužitých css stylů a javascriptu.
+Úspory dat lze dosáhnout například odstraněním nevyužitých css stylů a javascriptu.
 
  - **Jsou použitý kód a vložené obrázky optimalizovány?**
 
